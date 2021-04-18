@@ -1,0 +1,13 @@
+# vs general
+.vs/
+.vscode/
+bin/
+obj/
+.suo
+.user
+
+# my internal batch script
+_*.bat
+
+# approval tests
+*.received.*
